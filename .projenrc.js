@@ -37,8 +37,8 @@ const project = new awscdk.AwsCdkConstructLibrary({
     'hpagent',
   ],
   deps: [
-    'aws-cdk-lib@^2.0.0',
-    'constructs@^10.0.5',
+    'aws-cdk-lib@2.56.0',
+    'constructs@10.1.197',
     'got',
     'hpagent',
   ], /* Runtime dependencies of this module. */
